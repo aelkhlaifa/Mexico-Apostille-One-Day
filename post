@@ -1,0 +1,30 @@
+Mexico Apostille Services
+OneDayaApostille provides Mexico Apostille Services on an accelerated basis to apostille documents to be used in Mexico, which joined the Hague Convention on August 14, 1995.
+All official U.S. documents intended for use in Mexico require an apostille stamp from the SOS Secretary of State or the U.S. Department of State, depending on the type of document.
+Here are sample documents we can apostille:
+- FDA
+- FBI
+- USDA
+- IRS
+- USPTO
+- US Homeland Security 
+- EPA
+and others.
+
+
+One Day Apostille Services process all types of documents issued in the United States and intended for use in any other country. If you haven't found your document here, check our list for documents legalization.
+Some documents may need to be notarized before the Secretary of State apostilles them. Some countries require a different type of authentication called Embassy Legalization.
+
+
+
+function Home() {
+  return (
+    <ul>
+      <li>
+        <Link href="https://www.onedayapostille.com/mexico-document-apostille/">
+          <a>Mexico Apostille Services</a>
+        </Link>
+      </li>
+   </ul>
+  )
+}
